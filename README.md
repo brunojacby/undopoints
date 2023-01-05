@@ -2,9 +2,13 @@
 
 # Undo Points with React.js :eight_spoked_asterisk::repeat:
 
-O projeto "Mouse Tracker" é um exemplo de como criar um aplicativo que rastreia os cliques do mouse e exibe os pontos clicados na tela. O aplicativo foi desenvolvido utilizando o framework de interface de usuário React e o estilo foi aplicado utilizando o (CSS).
+The "Mouse Tracker" project is an example of how to create an application that tracks mouse clicks and displays the clicked points on the screen. The application was developed using the React user interface framework and styled using (CSS).
 
-O aplicativo possui três botões: "Redo", "Undo" e "Clear". O botão "Redo" remove o último ponto clicado da tela, o botão "Undo" adiciona o último ponto removido de volta à tela e o botão "Clear" limpa a tela de todos os pontos clicados.
+The application has three buttons: "Redo", "Undo" and "Clear". 
+
+The "Redo" button removes the last clicked point from the screen, 
+the "Undo" button adds the last removed point back to the screen, 
+and the "Clear" button clears the screen of all clicked points.
 
 ## Technologies
 
